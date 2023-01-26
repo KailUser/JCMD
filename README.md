@@ -5,6 +5,11 @@
 
 This is a command line written in Python using these libraries: cmd, os, colorama, ftplib, getpass, webbrowser.
 
+## Screenshots
+
+![App Screenshot](https://i.ibb.co/37N55sB/py-jdaz42-EHTt.png)
+
+
 ## Authors
 
 - [@KailUser](https://github.com/KailUser)
