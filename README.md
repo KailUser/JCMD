@@ -27,6 +27,3 @@ This is a command line written in Python using these libraries: cmd, os, coloram
 ![GitHub Sponsors](https://img.shields.io/github/sponsors/KailUser?style=flat-square)
 
 ![GitHub](https://img.shields.io/github/license/KailUser/JCMD?style=flat-square)
-
-![GitHub all releases](https://img.shields.io/github/downloads/KailUser/JCMD/total?style=flat-square)
-
