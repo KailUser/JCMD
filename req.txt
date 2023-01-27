@@ -1,0 +1,6 @@
+caugetch==0.0.1
+clipboard==0.0.4
+colorama==0.4.6
+getpass4==0.0.14.1
+pyftpdlib==1.5.7
+pyperclip==1.8.2
